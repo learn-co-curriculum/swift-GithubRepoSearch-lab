@@ -1,4 +1,4 @@
-# Github Repo Search - Swift
+# Github Repo Search - Swift (DEPRECATED)
 
 ## Demo
 
